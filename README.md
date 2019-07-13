@@ -7,7 +7,7 @@ Here are the papers I have read and studied in the past years.
 - **Network In Network**
   - [arxiv:1312.4400](https://arxiv.org/abs/1312.4400)
 
-- **VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION**
+- **Very Deep Convolutional Networks for Large-Scale Image Recognition**
   - [arxiv: 1409.1556](https://arxiv.org/abs/1409.1556)
 
 - **Spatial Transformer Networks**
