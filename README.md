@@ -1,4 +1,6 @@
-# List of papers read
+# List Of Papers Read
+
+Here are the papers I have read and studied in the past years.
 
 ## Network Architecture
 
