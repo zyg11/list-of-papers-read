@@ -52,3 +52,8 @@ Here are the papers I have read and studied in the past years.
 
 - **Scene Text Recognition with Sliding Convolutional Character Models**
   - [arxiv: 1709.01727](https://arxiv.org/abs/1709.01727)
+
+## Training Strategy
+
+- **How much real data do we actually need: Analyzing object detection performance using synthetic and real data**
+  - [arxiv:1907.07061](https://arxiv.org/abs/1907.07061)
