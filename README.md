@@ -38,6 +38,14 @@ Here are the papers I have read and studied in the past years.
 - **The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation**
   - [arxiv: 1611.09326](https://arxiv.org/abs/1611.09326)
 
+## Instance Segmentation
+
+- **Mask R-CNN**
+  - [arxiv:1703.06870](https://arxiv.org/abs/1703.06870)
+
+- **Path Aggregation Network for Instance Segmentation**
+  - [arxiv:1803.01534](https://arxiv.org/abs/1803.01534)
+
 ## Data Augmentation
 
 - **Improved Regularization of Convolutional Neural Networks with Cutout**
