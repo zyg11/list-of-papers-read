@@ -30,7 +30,7 @@ Here are the papers I have read and studied in the past years.
 - **Bottom-up Object Detection by Grouping Extreme and Center Points**
   - [arxiv:1901.08043](https://arxiv.org/abs/1901.08043)
 
-## Segmentation
+## Semantic Segmentation
 
 - **SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation**
   - [arxiv:1511.00561](https://arxiv.org/pdf/1511.00561)
