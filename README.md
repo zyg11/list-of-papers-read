@@ -56,6 +56,9 @@ Here are the papers I have read and studied in the past years.
 - **Deep Matching Prior Network: Toward Tighter Multi-oriented Text Detection**
   - [arxiv:1703.01425](https://arxiv.org/abs/1703.01425)
 
+- **PixelLink: Detecting Scene Text via Instance Segmentation**
+  - [arxiv:1801.01315](https://arxiv.org/abs/1801.01315)
+
 ## Text Recognition
 
 - **Scene Text Recognition with Sliding Convolutional Character Models**
