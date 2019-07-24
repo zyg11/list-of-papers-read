@@ -38,6 +38,9 @@ Here are the papers I have read and studied in the past years.
 - **The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation**
   - [arxiv: 1611.09326](https://arxiv.org/abs/1611.09326)
 
+- **Multi-Class Lane Semantic Segmentation using Efficient Convolutional Networks**
+  - [arxiv: 1907.09438](https://arxiv.org/abs/1907.09438)
+
 ## Instance Segmentation
 
 - **Mask R-CNN**
