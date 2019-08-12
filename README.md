@@ -58,18 +58,32 @@ Here are the papers I have read and studied in the past years.
 
 ## Text Detection
 
+- **Arbitrary-Oriented Scene Text Detection via Rotation Proposals**
+  - [arxiv:1703.01086](https://arxiv.org/abs/1703.01086)
+
 - **Deep Matching Prior Network: Toward Tighter Multi-oriented Text Detection**
   - [arxiv:1703.01425](https://arxiv.org/abs/1703.01425)
 
 - **PixelLink: Detecting Scene Text via Instance Segmentation**
   - [arxiv:1801.01315](https://arxiv.org/abs/1801.01315)
 
+- **E2E-MLT - an Unconstrained End-to-End Method for Multi-Language Scene Text**
+  - [arxiv:1801.09919](https://arxiv.org/abs/1801.09919)
+
 ## Text Recognition
 
+- **Attention-based Extraction of Structured Information from Street View Imagery**
+  - [arxiv:1704.03549](https://arxiv.org/abs/1704.03549)
+
 - **Scene Text Recognition with Sliding Convolutional Character Models**
-  - [arxiv: 1709.01727](https://arxiv.org/abs/1709.01727)
+  - [arxiv:1709.01727](https://arxiv.org/abs/1709.01727)
 
 ## Training Strategy
 
 - **How much real data do we actually need: Analyzing object detection performance using synthetic and real data**
   - [arxiv:1907.07061](https://arxiv.org/abs/1907.07061)
+
+## Image Fine-grained Classification
+
+- **Pairwise Confusion for Fine-Grained Visual Classiﬁcation**
+  - [arxiv:1705.08016](https://arxiv.org/abs/1705.08016)
