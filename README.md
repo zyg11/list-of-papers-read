@@ -26,6 +26,12 @@ Here are the papers I have read and studied in the past years.
 
 ## Object Detection
 
+- **SSD:SingleShotMultiBoxDetector**
+  - [arxiv:1512.02325](https://arxiv.org/abs/1512.02325)
+
+- **Feature Pyramid Networks for Object Detection**
+  - [arxiv:1612.03144](https://arxiv.org/abs/1612.03144)
+
 - **YOLOv3: An Incremental Improvement**
   - [arxiv:1804.02767](https://arxiv.org/abs/1804.02767)
 
@@ -78,12 +84,26 @@ Here are the papers I have read and studied in the past years.
 - **Scene Text Recognition with Sliding Convolutional Character Models**
   - [arxiv:1709.01727](https://arxiv.org/abs/1709.01727)
 
-## Training Strategy
+## Training Strategy & Model Optimization
+
+- **Cyclical Learning Rates for Training Neural Networks**
+  - [arxiv:1506.01186](https://arxiv.org/abs/1506.01186)
 
 - **How much real data do we actually need: Analyzing object detection performance using synthetic and real data**
   - [arxiv:1907.07061](https://arxiv.org/abs/1907.07061)
 
 ## Image Fine-grained Classification
 
+- **Bilinear CNN Models for Fine-grained Visual Recognition**
+  - [arxiv:1504.07889](https://arxiv.org/abs/1504.07889)
+
+- **Learning a Discriminative Filter Bank within a CNN for Fine-grained Recognition**
+  - [arxiv:1611.09932](https://arxiv.org/abs/1611.09932)
+
 - **Pairwise Confusion for Fine-Grained Visual Classiﬁcation**
   - [arxiv:1705.08016](https://arxiv.org/abs/1705.08016)
+
+## Image Quality Assessment
+
+- **NIMA: Neural Image Assessment**
+  - [arxiv:1709.05424](https://arxiv.org/abs/1709.05424)
