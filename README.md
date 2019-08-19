@@ -18,6 +18,9 @@ Here are the papers I have read and studied in the past years.
 - **Densely Connected Convolutional Networks**
   - [arxiv:1608.06993](https://arxiv.org/pdf/1608.06993.pdf)
 
+- **Squeeze-and-Excitation Networks**
+  - [arxiv: 1709.01507](https://arxiv.org/abs/1709.01507)
+
 - **MobileNetV2: Inverted Residuals and Linear Bottlenecks**
   - [arxiv: 1801.04381](https://arxiv.org/abs/1801.04381)
 
@@ -39,6 +42,9 @@ Here are the papers I have read and studied in the past years.
   - [arxiv:1901.08043](https://arxiv.org/abs/1901.08043)
 
 ## Semantic Segmentation
+
+- **U-Net: Convolutional Networks for Biomedical Image Segmentation**
+  - [arxiv:1505.04597](https://arxiv.org/abs/1505.04597)
 
 - **SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation**
   - [arxiv:1511.00561](https://arxiv.org/pdf/1511.00561)
